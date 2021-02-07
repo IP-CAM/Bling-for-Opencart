@@ -1,44 +1,44 @@
 # Bling OpenCart #
-**Contributors:** bling, lucasnodari, lucasrsilveira, leo-organisys 
-**Tags:** management, stock, finances, ERP, NFe, nota fiscal eletrônica  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+** Contributors: ** bling, lucasnodari, lucasrsilveira, leo-organisys
+** Tags: ** management, stock, finances, ERP, NFe, electronic invoice
+** License: ** GPLv2 or later
+** License URI: ** http://www.gnu.org/licenses/gpl-2.0.html
 
-O Bling é um sistema online que permite a você controlar as finanças, estoques e emitir notas fiscais de maneira rápida e descomplicada.
+Bling is an online system that allows you to control finances, stocks and issue invoices quickly and easily.
 
 ## Description ##
 
-### Descrição (pt_BR): ###
+### Description (pt_BR): ###
 
-O Bling é um sistema online que integra diversas ferramentas que podem auxiliar na solução dos principais problemas de gestão em uma pequena empresa.
-Funciona apenas com Real e com endereço no Brasil.
-Saiba mais fazendo uma [Tour no Bling](https://www.bling.com.br/tour/)
+Bling is an online system that integrates several tools that can help in solving the main management problems in a small company.
+Works only with Real and with address in Brazil.
+Find out more by doing a [Bling Tour] (https://www.bling.com.br/tour/)
 
 ### Description (en): ###
 
 The Bling is an online system that integrates several tools that can assist in solving the major problems in managing a small business.
 Works only with Real and address in Brazil.
-Learn more making a [Tour the Bling](https://www.bling.com.br/tour/).
+Learn more making a [Tour the Bling] (https://www.bling.com.br/tour/).
 
 
-### Instalação no OpenCart ###
-* Copie as pastas admin a catalog para a pasta de instalação do Opencart.
-* Na página de admininstração vá em extensões -> módulos e clique em instalar o modulo bling
+### Installation on OpenCart ###
+* Copy the admin a catalog folders to the Opencart installation folder.
+* On the admin page go to extensions -> modules and click on install the bling module
 
-### Configuração ###
+### Configuration ###
 
-Para realizar qualquer função, é necessário primeiro, configurar a chave de API para web services, para isso:
+To perform any function, it is necessary to first configure the API key for web services, for this:
     
-* Crie uma chave de api para Web Services em preferências do Bling.
-* Abra o menu do modulo no opencart.
-* Em configuração, coloque a chave gerada no primeiro passo no campo apikey, e clique em salvar.
+* Create an api key for Web Services in Bling preferences.
+* Open the module menu in the opencart.
+* In configuration, place the key generated in the first step in the apikey field, and click save.
 
-### Usando o módulo ###
+### Using the ### module
 
-* O menu do módulo é acessado em em extensões -> modulos -> bling -> editar  
-* Quando acessado, produz uma listagem de produtos e pedidos, e opções de exportar, importar, ou atualizar.
-* No momento só é possivel exportar.  
-* Para exportar produtos/pedidos, selecione os produtos/pedidos que deseja exportar clicando na checkbox à esquerda da imagem, e clique em exportar.  
+* The module menu is accessed in extensions -> modules -> bling -> edit
+* When accessed, it produces a list of products and orders, and options to export, import, or update.
+* At the moment it is only possible to export.
+* To export products / orders, select the products / orders you want to export by clicking the checkbox to the left of the image, and click export.
 
 ## Frequently Asked Questions ##
 
@@ -46,26 +46,24 @@ Para realizar qualquer função, é necessário primeiro, configurar a chave de 
 
 ### What do I need to use this plugin? ###
 
-* Have installed the [Open Cart](http://www.opencart.com/) plugin.
-* Owning an account on [Bling](http://www.bling.com.br/).
-* Generate an **[Access Key](http://bling.com.br/configuracoes.api.web.services.php)** in Bling;
+* Have installed the [Open Cart] (http://www.opencart.com/) plugin.
+* Owning an account on [Bling] (http://www.bling.com.br/).
+* Generate an ** [Access Key] (http://bling.com.br/configuracoes.api.web.services.php) ** in Bling;
 
 ### How work the Bling? ###
 
-* Learn more [Sobre o Bling](https://www.bling.com.br/tour/).
-* Or go to [FAQ do Bling](http://www.bling.com.br/faq.php).
+* Learn more [About Bling] (https://www.bling.com.br/tour/).
+* Or go to [Bling FAQ] (http://www.bling.com.br/faq.php).
 
-### FAQ (pt_BR): ###
+### FAQ (en_BR): ###
 
-### O que eu preciso para utilizar este plugin? ###
+### What do I need to use this plugin? ###
 
-* Ter instalado o plugin [Open Cart](http://www.opencart.com/).
-* Possuir uma conta no [Bling](http://bling.com.br/).
-* Gerar uma **[Chave de Acesso](http://bling.com.br/configuracoes.api.web.services.php)** no Bling;
+* Have installed the [Open Cart] plugin (http://www.opencart.com/).
+* Have an account at [Bling] (http://bling.com.br/).
+* Generate a ** [Access Key] (http://bling.com.br/configuracoes.api.web.services.php) ** in Bling;
 
-### Como funciona o Bling? ###
+### How does Bling work? ###
 
-* Saiba mais em [Sobre o Bling](http://bling.com.br/home.php?p=tour).
-* Ou acesse a [FAQ do Bling](http://bling.com.br/perguntas-frequentes).
-
-
+* Learn more at [About Bling] (http://bling.com.br/home.php?p=tour).
+* Or access the [Bling FAQ] (http://bling.com.br/perguntas-frequentes). 
